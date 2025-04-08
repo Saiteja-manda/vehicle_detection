@@ -1,0 +1,2 @@
+The input of this can be of your choice, depending upon the your requirements. This model is trained to recognize the vehicles by names of Truck,car,bike etc. Using Yolov8, this set is operated for recognizing various vehicles. 
+To implement this in real-time, users can use the computer vision modules(opencv), for more better and accurate results. These configurations mainly depends on the features of your respective system.
